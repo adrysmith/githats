@@ -1,1 +1,2 @@
 I'm writing into this new file in my repository.
+A random addition.
